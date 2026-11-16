@@ -1,0 +1,6 @@
+{
+  "name": "Apex Velocity: Car Racing Challenge",
+  "description": "An exhilarating 2D arcade car racing game with high-speed lane switching, power-ups, obstacles, garage car upgrades, and dynamic weather environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
